@@ -11,8 +11,7 @@ lib/
 ├── data/                 # Static product/cart data
 ├── screens/              # Home, Cart, Product View
 ├── main.dart             # Entry point
-
-
+```
 ## 🛠️ Installation & Setup
 
 Follow these steps to get the OneBike Shopping App running locally:
